@@ -4,13 +4,16 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <AssemblyVersion>0.1.0.0</AssemblyVersion>
     <FileVersion>0.1.0.0</FileVersion>
-    <Version>0.1.0-alpha</Version>
+    <Version>0.1.0-alpha1</Version>
     <Authors>rob_johnston</Authors>
     <Company />
     <Description>A .Net Standard client for the Coinsquare cryptocurrency API.</Description>
     <Copyright>Copyright © 2018 Rob Johnston</Copyright>
     <PackageTags>api-client; cryptocurrency; bitcoin; litecoin; ether; dash; dogecoin; coinsquare</PackageTags>
     <PackageReleaseNotes>This is an alpha version, meaning the API is not feature complete and may contain bugs.</PackageReleaseNotes>
+    <PackageLicenseUrl>https://github.com/RobJohnston/Coinsquare.Api/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/RobJohnston/Coinsquare.Api</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/RobJohnston/Coinsquare.Api</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

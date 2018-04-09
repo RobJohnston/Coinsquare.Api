@@ -1,6 +1,9 @@
 ﻿# Coinsquare.Api
 A .Net Standard client for the Coinsquare cryptocurrency API. 
 
+
+[![nuget](https://img.shields.io/nuget/v/Coinsquare.Api.svg)](https://www.nuget.org/packages/Coinsquare.Api/)
+
 **This is an alpha version, meaning the API is not feature complete and may contain bugs.**
 
 Contribute to this project by sending some XɃT my way: 1NTr61Gv6PEgVFDvXxNi2WuPWfucKTS54F 
@@ -8,6 +11,11 @@ Contribute to this project by sending some XɃT my way: 1NTr61Gv6PEgVFDvXxNi2WuP
 Or show your support by using my referral link to create your account: 
 https://coinsquare.io/register?r=9A96B01B4
 
+
+## Installation via NuGet
+```
+Install-Package Coinsquare.Api
+```
 
 ## Example usage
 
