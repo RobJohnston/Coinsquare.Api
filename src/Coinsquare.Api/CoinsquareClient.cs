@@ -27,7 +27,7 @@ namespace Coinsquare.Api
         /// </summary>
         public CoinsquareClient()
         {
-            _url = "https://coinsquare.io/api/v1";
+            _url = "https://coinsquare.io/api/v1/";
             _httpClient.BaseAddress = new Uri(_url);
         }
 
@@ -53,9 +53,11 @@ namespace Coinsquare.Api
             // Setup request.
             var urlEncodedArgs = UrlEncode(args);
 
-            var address = string.Format("{0}/{1}?{2}", _url, requestUrl, urlEncodedArgs);
-
-            var req = new HttpRequestMessage(HttpMethod.Get, address);
+            var req = new HttpRequestMessage()
+            {
+                Method = HttpMethod.Get,
+                RequestUri = new Uri(_httpClient.BaseAddress, string.Format("{0}?{1}", requestUrl, urlEncodedArgs))
+            };
 
             // Send request and deserialize response.
             return await SendRequestAsync<T>(req).ConfigureAwait(false);
