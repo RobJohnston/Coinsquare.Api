@@ -6,11 +6,9 @@ A .Net Standard client for the Coinsquare cryptocurrency API.
 
 **This is an alpha version, meaning the API is not feature complete and may contain bugs.**
 
-Contribute to this project by sending some XɃT my way: 1NTr61Gv6PEgVFDvXxNi2WuPWfucKTS54F 
-
-Or show your support by using my referral link to create your account: 
-https://coinsquare.io/register?r=9A96B01B4
-
+An account is not required to access the public API methods. 
+However, if you do create an account, please use my referral code (9A96B01B4) when you [register](https://coinsquare.io/register?r=9A96B01B4). 
+It's an easy way to give back at no cost to you.
 
 ## Installation via NuGet
 ```
@@ -89,3 +87,17 @@ namespace ConsoleApp1
 }
 
 ```
+
+## My related projects
+
+* [QuadrigaCX.Api](https://github.com/RobJohnston/QuadrigaCX.Api)
+* [EzBtc.Api](https://github.com/RobJohnston/EzBtc.Api)
+* [AnxPro.Api](https://github.com/RobJohnston/AnxPro.Api)
+
+## Donation addresses
+
+* Bitcoin: 1NTr61Gv6PEgVFDvXxNi2WuPWfucKTS54F 
+* Bitcoin Cash:  1NNMba7XGrNxbJWRokiNkp4Kyg44MRXcWP
+* Litecoin:  LPVLgyBj6ft8xguNJWSA9tBE7FrhuihZ8E
+* Dash:  XcPQvATviQDkVvLGCvHwph4bUnYuFnQLmH
+* Dogecoin:  DHtVaXKjw8Pc5yay3yF8297TzbZztKaYqf
