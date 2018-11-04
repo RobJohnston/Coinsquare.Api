@@ -3,12 +3,13 @@ A .Net Standard client for the Coinsquare cryptocurrency API.
 
 
 [![nuget](https://img.shields.io/nuget/v/Coinsquare.Api.svg)](https://www.nuget.org/packages/Coinsquare.Api/)
+![Downloads](https://img.shields.io/nuget/dt/Coinsquare.Api.svg)
 
 **This is an alpha version, meaning the API is not feature complete and may contain bugs.**
 
 An account is not required to access the public API methods. 
 However, if you do create an account, please use my referral code (9A96B01B4) when you [register](https://coinsquare.io/register?r=9A96B01B4). 
-It's an easy way to give back at no cost to you.
+It's an easy way to give back to this project at no cost to you.
 
 ## Installation via NuGet
 ```
@@ -187,8 +188,9 @@ Press any key to exit.
 ## My related projects
 
 * [QuadrigaCX.Api](https://github.com/RobJohnston/QuadrigaCX.Api)
-* [EzBtc.Api](https://github.com/RobJohnston/EzBtc.Api)
+* [CoinField.Api](https://github.com/RobJohnston/CoinField.Api)
 * [Ndax.Api](https://github.com/RobJohnston/Ndax.Api)
+* [EzBtc.Api](https://github.com/RobJohnston/EzBtc.Api)
 * [AnxPro.Api](https://github.com/RobJohnston/AnxPro.Api)
 
 ## Donation addresses
