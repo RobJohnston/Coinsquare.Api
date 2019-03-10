@@ -195,12 +195,8 @@ Press any key to exit.
 
 ## Donation addresses
 
-* Bitcoin (BTC): 3EA6e7CdW3ePEpTLuLPZBFC7JiSM8Hy4iW 
-* Bitcoin Cash SV (BSV):  bitcoincash:qp2a7ynlkk0u52mdc8rkdhjgc0xcag4jjywxsvervc
-* Bitcoin Cash ABC (BAB): bitcoincash:qp2a7ynlkk0u52mdc8rkdhjgc0xcag4jjywxsvervc
-* Ethereum (ETH): 0x42471B305b6E54369E378178301DC0406CF9196a
-* Ripple (XRP): rDM9x1ehphbwXX8UhvF2j8tyuJY2VVnm5; XRP Tag: 295362556
-* Litecoin (LTC):  MW7jWtqu5oGAPzvx3tDJWqdJpaV6p3Vi9V
-* Dash (DASH):  Xh4MwCv7Hd4ufpHbn1u5heiirU6s8cuV3B
-* Dogecoin (DOGE):  D9aR1y8jyBxYWKDs5AebWqoGcg8CNmp7gm
-* Ethereum Classic (ETH): 0x42471B305b6E54369E378178301DC0406CF9196a
+* Bitcoin: 1NTr61Gv6PEgVFDvXxNi2WuPWfucKTS54F 
+* Bitcoin Cash:  1NNMba7XGrNxbJWRokiNkp4Kyg44MRXcWP
+* Litecoin:  LPVLgyBj6ft8xguNJWSA9tBE7FrhuihZ8E
+* Dash:  XcPQvATviQDkVvLGCvHwph4bUnYuFnQLmH
+* Dogecoin:  DHtVaXKjw8Pc5yay3yF8297TzbZztKaYqf
