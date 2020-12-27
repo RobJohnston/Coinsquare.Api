@@ -187,11 +187,9 @@ Press any key to exit.
 
 ## My related projects
 
-* [QuadrigaCX.Api](https://github.com/RobJohnston/QuadrigaCX.Api)
+* [AlphaPoint.Api](https://github.com/RobJohnston/AlphaPoint.Api)
 * [CoinField.Api](https://github.com/RobJohnston/CoinField.Api)
 * [Ndax.Api](https://github.com/RobJohnston/Ndax.Api)
-* [EzBtc.Api](https://github.com/RobJohnston/EzBtc.Api)
-* [AnxPro.Api](https://github.com/RobJohnston/AnxPro.Api)
 
 ## Donation addresses
 
